@@ -1,0 +1,19 @@
+{
+    "objetos":{
+
+        "cadeira":"chair",
+
+        "mesa":"table",
+
+        "livro":"book",
+    
+        "pia":"sink",
+
+        "biblioteca":"library",
+
+        "carro":"car",
+
+        "foguete":"rocket"
+    }
+
+}
